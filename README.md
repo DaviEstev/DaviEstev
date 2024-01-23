@@ -2,7 +2,7 @@
 
 - 🔭 Pretendo Trabalhar com Front-End
 - 🌱 Estudando HTML CSS & JavaScript
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: ele
 
 <a href="https://github.com/DaviEstev/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DaviEstev&theme=gruvbox&show_icons=true" />
