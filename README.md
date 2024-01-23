@@ -1,6 +1,6 @@
 ### Olá Bem Vindo/a ao meu perfil sou Davi Estevam 
 
-- 🔭 Pretendo Trabalhar com em Front-End
+- 🔭 Pretendo Trabalhar com Front-End
 - 🌱 Estudando HTML CSS & JavaScript
 - 😄 Pronomes: ele/dele
 
