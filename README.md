@@ -1,25 +1,43 @@
-### Olá Bem Vindo/a ao meu perfil sou Davi Estevam 
+## Olá Bem Vindo/a ao meu perfil sou Davi Estevam 
+
+Sou um estudante de programação com foco em HTML, CSS e JavaScript, atualmente explorando também AWS, meus principais hobbies são, ouvir musicas, ler livros e de vez em quando jogar, gosto também de práticar aquilo que aprendo, desenvolvendo pequenos projetos práticos sobre os conceitos.   
 
 - 🔭 Pretendo Trabalhar com Front-End
 - 🌱 Estudando HTML CSS & JavaScript
-- 😄 Pronomes: ele
 
-<a href="https://github.com/DaviEstev/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=DaviEstev&theme=gruvbox&show_icons=true" />
-</a>
-<a href="https://github.com/DaviEstev/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviEstev&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
-</a>
+## status
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviEstev&theme=transparent&bg_color=282828&border_color=FFF=true&title_color=ED8F05&text_color=8EC07C)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaviEstev&bg_color=282828&border_color=FFF&title_color=ED8F05&text_color=8EC07C)
+
+## Repositórios em Destaque
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DaviEstev&repo=Project-One-Piece&bg_color=282828&border_color=FFF&title_color=ED8F05&text_color=8EC07C)](https://github.com/DaviEstev/Project-One-Piece)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DaviEstev&repo=Cartao-blog&bg_color=282828&border_color=FFF&title_color=ED8F05&text_color=8EC07C)](https://github.com/DaviEstev/Cartao-Blog)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DaviEstev&repo=Links-Sociais&bg_color=282828&border_color=FFF&title_color=ED8F05&text_color=8EC07C)](https://github.com/DaviEstev/Links-Sociais)
+
+## Linguagens
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   
-  ##
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  
-<div> 
-  <a href="https://www.instagram.com/davi_estv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daviestevprograming/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+ ## Ferramentas já Familiarizadas
+
+ ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+ ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+  
+  ## Redes Sociais
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daviestevprograming/)
+
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davi_estv/)
+
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviEstev)
+
+ [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)    Futuramente Disponivel!
