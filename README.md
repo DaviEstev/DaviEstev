@@ -11,12 +11,6 @@ Sou um estudante de programação com foco em HTML, CSS e JavaScript, atualmente
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaviEstev&bg_color=282828&border_color=FFF&title_color=ED8F05&text_color=8EC07C)
 
-## Repositórios em Destaque
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DaviEstev&repo=Project-One-Piece&bg_color=282828&border_color=FFF&title_color=ED8F05&text_color=8EC07C)](https://github.com/DaviEstev/Project-One-Piece)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DaviEstev&repo=Cartao-blog&bg_color=282828&border_color=FFF&title_color=ED8F05&text_color=8EC07C)](https://github.com/DaviEstev/Cartao-Blog)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DaviEstev&repo=Links-Sociais&bg_color=282828&border_color=FFF&title_color=ED8F05&text_color=8EC07C)](https://github.com/DaviEstev/Links-Sociais)
-
 ## Linguagens
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
