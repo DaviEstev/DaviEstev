@@ -7,12 +7,14 @@ Sou um estudante de programação com foco em HTML, CSS e JavaScript, atualmente
 
 ## status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviEstev&theme=transparent&bg_color=282828&border_color=FFF=true&title_color=ED8F05&text_color=8EC07C)
+
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviEstev&theme=transparent&bg_color=282828&border_color=FFF=true&title_color=ED8F05&text_color=8EC07C)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DaviEstev&bg_color=282828&border_color=FFF&title_color=ED8F05&text_color=8EC07C)
 
 ## Linguagens
 
+ 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
