@@ -1,9 +1,6 @@
 ## Olá Bem Vindo/a ao meu perfil sou Davi Estevam 
 
-Sou um estudante de programação com foco em HTML, CSS e JavaScript, atualmente explorando também AWS, meus principais hobbies são, ouvir musicas, ler livros e de vez em quando jogar, gosto também de práticar aquilo que aprendo, desenvolvendo pequenos projetos práticos sobre os conceitos.   
-
-- 🔭 Pretendo Trabalhar com Front-End
-- 🌱 Estudando HTML CSS & JavaScript
+Sou um estudante de programação com foco em HTML, CSS e JavaScript, gosto de práticar aquilo que aprendo, desenvolvendo pequenos projetos práticos sobre os conceitos.   
 
 ## status
 
